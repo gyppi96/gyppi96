@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning two A: Android and Arduino
 - 👯 I’m engineer
+- Java
 
 ### Connect with me:
 
